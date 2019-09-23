@@ -1,7 +1,7 @@
 # W3.CSS Framework CV Template
 
 This is a modified version of the cv template taken from [W3Schools.com](https://www.w3schools.com/w3css/w3css_templates.asp).
-It's part of a workshop in Kigali, Rwanda in September 2019.
+It's part of a workshop for WeCode in Kigali, Rwanda in September 2019.
 
 ## Getting Started
 
@@ -19,6 +19,9 @@ and open it in your favorite editor.
 Since the template uses custom web fonts, you might want to download the [Inter font family](https://rsms.me/inter/) and install it on your machine for offline use. -->
 
 <!-- TODO: font awesome files note
+
+For easier offline use, this project includes the offline files for Font Awesome. When hosting you might use the CDN as described here: For easier offline use, this project includes the offline files for Font Awesome. When hosting you might use the CDN as described here: https://fontawesome.com/v4.7.0/get-started/?utm_source=fontawesome4.7
+
 ```
 .
 ├── README.md
