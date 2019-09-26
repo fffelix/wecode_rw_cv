@@ -5,15 +5,17 @@ It's part of a workshop for WeCode in Kigali, Rwanda in September 2019.
 
 ## Getting Started
 
-Make sure you have set up your Github account and configured git on your computer.
+Make sure you have set up your GitHub account and configured git on your computer.
 
-Next clone this repository
+1. Fork this repository 
 
-```
-git clone
-```
+2. Raname your fork to `<your GitHub username>.github.io`
 
-and open it in your favorite editor.
+3. Clone your repostory and edit it in your favorite editor
+
+4. Push
+
+5. :tada:
 
 <!-- TODO: custom web font note
 Since the template uses custom web fonts, you might want to download the [Inter font family](https://rsms.me/inter/) and install it on your machine for offline use. -->
